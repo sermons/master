@@ -4,10 +4,20 @@
 
 >>>
 
-1. mercy in business dealings (seems money still has use)
-2. faithfulness in the small things (money || the smallest)
-3. love God, hate money (hate)
+---
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+1. Mercy in Business [(v1-9)](# "ref")
+2. Faithfulness in <br> the Small Things [(v10-12)](# "ref")
+3. Loving God, Hating Money [(v13-15)](# "ref")
 
+>>>
++ (1) money does have utility
++ (2) but it's only the smallest of things
++ (3) in fact, cannot love both God + money
+
+---
+
+>>>
 ##  (1-) 9: relationships over money
 + waste money vs use money to build rl
   + master (still son of this age) recognized diff
@@ -18,8 +28,15 @@
   + and be drawn to Christ's mercy
 + cf guanxi: bad if abusing rl to gain money
   + good if expending money to build rl + testify to mercy
+
+---
+
+>>>
 + Q: show mercy in biz rl, in prep of eternal occupation
 
+---
+
+>>>
 ## 10-12: faithful in small things
 + least / unrighteous / others'
 + purpose of earning money? 
@@ -35,8 +52,15 @@
   + having enough money != good stewardship!
   + "I earned it, so it's mine to spend"
   + Col3:22-24 work as for Lord
+
+---
+
+>>>
 + Q: in what "unimportant"/"non-spiritual" area have I not been faithful? 
 
+---
+
+>>>
 ## 13 (-15) master of the house
 + servant in house: master, manager, servants
 + heart (love vs hate)
@@ -55,8 +79,16 @@
   + "of course I need to take it"
   + "it's for our family"
   + scare tactics: "do you want us to starve? "
+
+---
+
+>>>
 + Q: am I servant in household of God or household of money? 
 
+---
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
+
+>>>
 ## Exegesis
 + 8b the sons of this age
   + smarter beyond the sons of the light
