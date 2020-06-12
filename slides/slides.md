@@ -325,8 +325,9 @@ who will give you that which is **your own**?
 [Luke 16:10-12 (ESV) (p.1/2)](# "ref")
 
 >>>
-+ Jesus lumps **money** together with 3 other categories:
-  + least / unrighteous / another's
++ 3 **contrasts**: the least vs **abundance**
+  + unrighteous vs that which is **true**
+  + another's vs your **own**
 + Money is **tiny**, not of great / lasting value
   + Money can be **unrighteous**: ill-gotten, tempting to sin
   + Money is not **our own**, it belongs to God
@@ -382,37 +383,14 @@ You are serving the **Lord Christ**.
 [Colossians 3:23-24 (ESV)](# "ref")
 
 ---
-
->>>
-+ Q: in what "unimportant"/"non-spiritual" area have I not been faithful? 
+<!-- .slide: data-background="white" -->
+# In what "unimportant" / "non-spiritual" area have I been not so faithful? 
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
 1. Mercy in Business [(v1-9)](# "ref")
 2. Faithfulness in <br> the Small Things [(v10-12)](# "ref")
 3. **Loving God, Hating Money** [(v13-15)](# "ref")
-
----
-
->>>
-## 13 (-15) master of the house
-+ servant in house: master, manager, servants
-+ heart (love vs hate)
-  + mind/thinking/priorities (cling/hold closely vs look down / despise / think down / contempt)
-+ Phar scoffed: not took offense, but looked down on:
-  + "Jesus, you don't understand:
-  + "we do love God, and also enjoy finer things of life"
-  + "what's wrong with loving both?"
-+ making lots of money means God is blessing you,
-  + means you must be doing something right? 
-  + prosperity gospel, MLM
-+ exalted in men / defiled before God
-+ unconsciously prioritize making money / work
-  + when opportunity for increased responsibilities at work,
-  + even if would take time away from family:
-  + "of course I need to take it"
-  + "it's for our family"
-  + scare tactics: "do you want us to starve? "
 
 ---
 No servant can serve **two masters**, 
@@ -427,6 +405,15 @@ You cannot serve **God and money**.
 
 [Luke 16:13 (ESV)](# "ref")
 
+>>>
++ **heart**: love vs hate
++ **mind** (thinking, priorities):
+  + **cling** / hold closely to vs. 
+  + look **down** on, consider worthless, hold in contempt
++ We must make a conscious **choice**
+  + put God as **master** over **every** aspect of life
+  + including how we **earn + spend** money
+
 ---
 The Pharisees, who were **lovers of money**, <br>
 heard all these things, and they **ridiculed** him.
@@ -440,26 +427,28 @@ is an **abomination** in the sight of God.
 
 [Luke 16:14 (ESV)](# "ref")
 
----
-
 >>>
-+ Q: am I servant in household of God or household of money? 
++ Phar **scoffed**: not took offense, but looked **down** on:
+  + "Jesus, you don't **understand**:
+  + "we **do** love God, and also enjoy **finer** things of life"
+  + "What's wrong with loving **both**?"
++ Making lots of money means God is **blessing** you,
+  + means you must be doing **something** right? 
++ cf. **prosperity** gospel: "God wants you to be rich"
+  + cf. **MLM**: have ambition, achieve dreams
+  + (so if you **fail**, must be bc you didn't **try** hard enough)
++ exalted in men / defiled before God
++ unconsciously **prioritize** making money / work
+  + when work offers opp. for increased **responsib**
+  + even if would take **time** away from family:
+  + "of course I **need** to take it"
+  + "it's for our **family**"
+  + **scare** tactics: "do you want us to **starve**?"
+
+---
+<!-- .slide: data-background="white" -->
+# Am I servant in the household of God or the household of money? 
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
-
->>>
-## Exegesis
-+ 10 least vs much, faithful vs unrighteous
-  + 11 unrighteous mammon vs that which is true
-  + 12 others' vs given your own
-+ 13 no house servant is able two lords to serve:
-  + for either the one he hates and the other he loves,
-  + or the one he clings to and of the other he considers.
-  + Not you are able to God to serve and to mammon
-+ 14 Pharisees: what's wrong with both serving God and making good money while you do so? 
-+ 15 justify/righteous selves before men
-  + but God knows the hearts of you
-  + that which in men is high/exalted
-  + is defiled/abhorrent before God
 
