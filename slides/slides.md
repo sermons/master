@@ -16,9 +16,90 @@
 + (3) in fact, cannot love both God + money
 
 ---
+[1](# "ref")
+There was a rich man who had a manager, <br>
+and charges were brought to him <br>
+that this man was wasting his possessions. 
+
+[2](# "ref")
+And he called him and said to him, <br>
+‘What is this that I hear about you? <br>
+Turn in the account of your management, <br>
+for you can no longer be manager.’ 
+
+[Luke 16:1-9 (ESV) (p.1/5)](# "ref")
+
+---
+[3](# "ref")
+And the manager said to himself, <br>
+‘What shall I do, since my master is <br>
+taking the management away from me? 
+
+I am not strong enough to dig, <br>
+and I am ashamed to beg. 
+
+[4](# "ref")
+I have decided what to do, <br>
+so that when I am removed from management, <br>
+people may receive me into their houses.’ 
+
+[Luke 16:1-9 (ESV) (p.2/5)](# "ref")
+
+---
+[5](# "ref")
+So, summoning his master's debtors <br>
+one by one, he said to the first, <br>
+‘How much do you owe my master?’ 
+
+[6](# "ref")
+He said, ‘A hundred measures of oil.’ <br>
+He said to him, ‘Take your bill, <br>
+and sit down quickly and write fifty.’ 
+
+[Luke 16:1-9 (ESV) (p.3/5)](# "ref")
+
+---
+[7](# "ref")
+Then he said to another, <br>
+‘And how much do you owe?’ 
+
+He said, ‘A hundred measures of wheat.’ <br>
+He said to him, ‘Take your bill, and write eighty.’ 
+
+[8](# "ref")
+The master commended the dishonest manager <br>
+for his shrewdness. 
+
+[Luke 16:1-9 (ESV) (p.4/5)](# "ref")
+
+---
+For the sons of this world are more shrewd <br>
+in dealing with their own generation <br>
+than the sons of light. 
+
+[9](# "ref")
+And I tell you, make friends for yourselves <br>
+by means of unrighteous wealth, 
+
+so that when it fails they may receive you <br>
+into the eternal dwellings.
+
+[Luke 16:1-9 (ESV) (p.5/5)](# "ref")
+
+---
 
 >>>
-##  (1-) 9: relationships over money
++ 18:1-8 if even unrighteous judge brings justice,
+  + how much more so God to His elect
+  + if even unrighteous manager does thus,
+  + how much more so should we
+
+---
+(relationships over money)
+
+>>>
++ Mammon: from Aramaic "that in which we trust"
+  + not in OT, only here and Mt6:24
 + waste money vs use money to build rl
   + master (still son of this age) recognized diff
 + make friends (kiss, love, alliance, tribe):
@@ -33,6 +114,9 @@
 
 >>>
 + Q: show mercy in biz rl, in prep of eternal occupation
+
+---
+## outline 2
 
 ---
 
@@ -54,9 +138,73 @@
   + Col3:22-24 work as for Lord
 
 ---
+One who is faithful in a **very little**
+is also faithful in **much**, 
+
+and one who is dishonest in a **very little**
+is also dishonest in **much**. 
+
+[Luke 16:10 (ESV)](# "ref")
+
+---
+[11](# "ref")
+If then you have not been faithful <br>
+in the **unrighteous wealth**, <br>
+who will entrust to you the **true** riches? 
+
+[12](# "ref")
+And if you have not been faithful <br>
+in that which is **another's**, <br>
+who will give you that which is **your own**? 
+
+[Luke 16:11-12 (ESV)](# "ref")
+
+---
+Do not lay up for yourselves **treasures on earth**, <br>
+where **moth** and rust destroy <br>
+and where **thieves** break in and steal, 
+
+[20](# "ref")
+but lay up for yourselves treasures in **heaven**, [...] 
+
+[21](# "ref")
+For where your **treasure** is, <br>
+there your **heart** will be also.
+
+[Matthew 6:19-21 (ESV)](# "ref")
+
+---
+Therefore I tell you,
+
+do not be **anxious** about your **life**, <br>
+what you will **eat** or what you will drink,
+
+nor about your **body**, what you will **put on**. 
+
+Is not **life** more than food, <br>
+and the **body** more than clothing?
+
+[Matthew 6:25 (ESV)](# "ref")
+
+---
+Whatever you do, work **heartily**, <br>
+as **for the Lord** and not for men, 
+
+[24](# "ref")
+knowing that from the Lord you will receive <br>
+the **inheritance** as your reward. 
+
+You are serving the **Lord Christ**.
+
+[Colossians 3:23-24 (ESV)](# "ref")
+
+---
 
 >>>
 + Q: in what "unimportant"/"non-spiritual" area have I not been faithful? 
+
+---
+## outline 3
 
 ---
 
@@ -79,6 +227,32 @@
   + "of course I need to take it"
   + "it's for our family"
   + scare tactics: "do you want us to starve? "
+
+---
+No servant can serve **two masters**, 
+
+for either he will **hate** the one <br>
+and **love** the other, 
+
+or he will be **devoted** to the one <br>
+and **despise** the other. 
+
+You cannot serve **God and money**.
+
+[Luke 16:13 (ESV)](# "ref")
+
+---
+The Pharisees, who were **lovers of money**, <br>
+heard all these things, and they **ridiculed** him.
+
+And he said to them, <br>
+“You are those who **justify yourselves** before men, <br>
+but God knows your **hearts**. 
+
+For what is **exalted** among men <br>
+is an **abomination** in the sight of God.
+
+[Luke 16:14 (ESV)](# "ref")
 
 ---
 
@@ -109,15 +283,3 @@
   + that which in men is high/exalted
   + is defiled/abhorrent before God
 
-## xrefs
-+ Mt treasure is, heart also
-+ 1 Tim 6 root of evil
-+ widow's offering
-+ Mammon: from Aramaic "that in which we trust"
-  + not in OT, only here and Mt6:24:
-  + treasures in heaven, eye as lamp of body
-+ 18:1-8 if even unrighteous judge brings justice,
-  + how much more so God to His elect
-  + if even unrighteous manager does thus,
-  + how much more so should we
-+ James
