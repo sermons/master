@@ -67,7 +67,8 @@ He said, ‘A hundred measures of wheat.’ <br>
 He said to him, ‘Take your bill, and write eighty.’ 
 
 [8](# "ref")
-The master commended the dishonest manager <br>
+The master commended <br>
+the dishonest manager <br>
 for his shrewdness. 
 
 [Luke 16:1-9 (ESV) (p.4/5)](# "ref")
@@ -138,10 +139,10 @@ into the eternal dwellings.
   + Col3:22-24 work as for Lord
 
 ---
-One who is faithful in a **very little**
+One who is faithful in a **very little**<br>
 is also faithful in **much**, 
 
-and one who is dishonest in a **very little**
+and one who is dishonest in a **very little**<br>
 is also dishonest in **much**. 
 
 [Luke 16:10 (ESV)](# "ref")
@@ -165,7 +166,8 @@ where **moth** and rust destroy <br>
 and where **thieves** break in and steal, 
 
 [20](# "ref")
-but lay up for yourselves treasures in **heaven**, [...] 
+but lay up for yourselves <br>
+treasures in **heaven**, [...] 
 
 [21](# "ref")
 For where your **treasure** is, <br>
@@ -246,8 +248,8 @@ The Pharisees, who were **lovers of money**, <br>
 heard all these things, and they **ridiculed** him.
 
 And he said to them, <br>
-“You are those who **justify yourselves** before men, <br>
-but God knows your **hearts**. 
+“You are those who **justify yourselves** <br>
+before men, but God knows your **hearts**. 
 
 For what is **exalted** among men <br>
 is an **abomination** in the sight of God.
