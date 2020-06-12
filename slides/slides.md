@@ -500,7 +500,7 @@ is an **abomination** in the sight of God.
 
 ---
 <!-- .slide: data-background="white" -->
-# Am I trying to **love** both God and money?
+# Am I trying <br> to **love** both God <br> and money?
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
