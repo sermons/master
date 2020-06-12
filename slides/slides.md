@@ -331,16 +331,12 @@ who will give you that which is **your own**?
 + Money is **tiny**, not of great / lasting value
   + Money can be **unrighteous**: ill-gotten, tempting to sin
   + Money is not **our own**, it belongs to God
+
+---
+>>>
 + no lack/scarcity with the Creator
   + breaks system of economics that predicates on scarcity / zero sum
 + be neither proud nor dissatisfied, whether rich or poor
-+ cultivate faithfulness
-+ e.g. care for plant / fish / dog/cat / child
-+ e.g., participate in smgp before lead
-+ financial stewardship as part of discipleship
-  + having enough money != good stewardship!
-  + "I earned it, so it's mine to spend"
-  + Col3:22-24 work as for Lord
 
 ---
 Do not lay up for yourselves **treasures on earth**, <br>
@@ -369,6 +365,14 @@ Is not **life** more than food, <br>
 and the **body** more than clothing?
 
 [Matthew 6:25 (ESV)](# "ref")
+
+>>>
++ cultivate faithfulness
++ e.g. care for plant / fish / dog/cat / child
++ e.g., participate in smgp before lead
++ financial stewardship as part of discipleship
+  + having enough money != good stewardship!
+  + "I earned it, so it's mine to spend"
 
 ---
 Whatever you do, work **heartily**, <br>
@@ -438,10 +442,13 @@ is an **abomination** in the sight of God.
   + cf. **MLM**: have ambition, achieve dreams
   + (so if you **fail**, must be bc you didn't **try** hard enough)
 + exalted in men / defiled before God
+
+---
+>>>
 + unconsciously **prioritize** making money / work
   + when work offers opp. for increased **responsib**
   + even if would take **time** away from family:
-  + "of course I **need** to take it"
++ "of course I **need** to take it"
   + "it's for our **family**"
   + **scare** tactics: "do you want us to **starve**?"
 
