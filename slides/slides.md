@@ -331,12 +331,39 @@ who will give you that which is **your own**?
 + Money is **tiny**, not of great / lasting value
   + Money can be **unrighteous**: ill-gotten, tempting to sin
   + Money is not **our own**, it belongs to God
++ But money can be **useful** to train up our **faithfulness**
++ Financial **stewardship** is part of **discipleship**
+  + having enough **money** != good stewardship!
+  + "I **earned** it, so it's **mine** to spend"
++ e.g., child's **allowance**: daily **needs** provided for
+  + but allowance is opp. to learn **responsibility**
++ e.g., JJ's **piggy banks**, birthday money
+  + doesn't want to just **keep** it in bank, no use
+  + but what to **spend** it on?
 
 ---
+Therefore I tell you,
+
+do not be **anxious** about your **life**, <br>
+what you will **eat** or what you will drink,
+
+nor about your **body**, what you will **put on**. 
+
+Is not **life** more than food, <br>
+and the **body** more than clothing?
+
+[Matthew 6:25 (ESV)](# "ref")
+
 >>>
-+ no lack/scarcity with the Creator
-  + breaks system of economics that predicates on scarcity / zero sum
-+ be neither proud nor dissatisfied, whether rich or poor
++ Truth is: **all** our money is like a child's piggy bank
+  + no **lack** / scarcity with the **Creator**
++ This breaks our system of **economics** 
+  + that predicates on **scarcity** / zero sum
++ So we have no **fear** / anxiety about not having **enough**
+  + and no **pride** over having an abundance
++ All our **worldly** wealth is the **tiniest** of things
+  + compared to the **riches** of God's inheritance
+  + reserved for us in **heaven**:
 
 ---
 Do not lay up for yourselves **treasures on earth**, <br>
@@ -353,26 +380,11 @@ there your **heart** will be also.
 
 [Matthew 6:19-21 (ESV)](# "ref")
 
----
-Therefore I tell you,
-
-do not be **anxious** about your **life**, <br>
-what you will **eat** or what you will drink,
-
-nor about your **body**, what you will **put on**. 
-
-Is not **life** more than food, <br>
-and the **body** more than clothing?
-
-[Matthew 6:25 (ESV)](# "ref")
-
 >>>
-+ cultivate faithfulness
-+ e.g. care for plant / fish / dog/cat / child
-+ e.g., participate in smgp before lead
-+ financial stewardship as part of discipleship
-  + having enough money != good stewardship!
-  + "I earned it, so it's mine to spend"
++ investment with **best** long-term returns
++ cultivate **faithfulness** in what we've been entrusted with
++ e.g. **care** for plant / fish / dog/cat / child
++ e.g., participate in **smgp** before lead
 
 ---
 Whatever you do, work **heartily**, <br>
