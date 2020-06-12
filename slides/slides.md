@@ -385,6 +385,11 @@ there your **heart** will be also.
 + cultivate **faithfulness** in what we've been entrusted with
 + e.g. **care** for plant / fish / dog/cat / child
 + e.g., participate in **smgp** before lead
++ be a diligent **student**, employee, spouse, parent
+  + **not** bc that role gives you **meaning**
++ but bc our **Creator** who defines our purpose
+  + calls us to be **faithful** + trust in Him
+  + w/promise of **greater**, lasting reward
 
 ---
 Whatever you do, work **heartily**, <br>
@@ -398,15 +403,41 @@ You are serving the **Lord Christ**.
 
 [Colossians 3:23-24 (ESV)](# "ref")
 
+>>>
++ on my whiteboard at TWU, need that frequent **reminder** to
+  + work **heartily**: from the **psyche**, soul, life
++ Certainly, don't work heartily in things that **oppose** God,
+  + but in our day-to-day **occupation**
++ This is our **training** grounds for a future reward that is
+  + **abundant**, **true**, and will be **ours** to keep
++ Told **students** same: e.g., learning **calculus**
+  + not **critical** to spiritual growth, but
+  + **useful** abstraction, **diligence** in small things
++ cultivate **faithfulness**:
+
 ---
 <!-- .slide: data-background="white" -->
-# In what "unimportant" / "non-spiritual" area have I been not so faithful? 
+# In what "**unimportant**" or "**non-spiritual**" area have I been <br> not so **faithful**? 
+
+>>>
++ esp for **guys**: tend to like focusing on **big** ideas
+  + while ladies faithfully take care of **implementation** details
++ I might think some work / responsibility is **beneath** me
+  + I have **training**, expertise, could be doing so much **more**
++ If this is the **work** God's entrusted to me right now
+  + will I **fulfill** it with full energy
+  + serving **God**, not man?
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
 1. Mercy in Business [(v1-9)](# "ref")
 2. Faithfulness in <br> the Small Things [(v10-12)](# "ref")
 3. **Loving God, Hating Money** [(v13-15)](# "ref")
+
+>>>
++ Desire to show **mercy** to others as a testimony of God's mercy
++ Cultivate **faithfulness** even in small things (like money)
++ Examine our **hearts**, what does it mean to **love** God
 
 ---
 No servant can serve **two masters**, 
@@ -438,9 +469,6 @@ And he said to them, <br>
 “You are those who **justify yourselves** <br>
 before men, but God knows your **hearts**. 
 
-For what is **exalted** among men <br>
-is an **abomination** in the sight of God.
-
 [Luke 16:14 (ESV)](# "ref")
 
 >>>
@@ -450,14 +478,20 @@ is an **abomination** in the sight of God.
   + "What's wrong with loving **both**?"
 + Making lots of money means God is **blessing** you,
   + means you must be doing **something** right? 
-+ cf. **prosperity** gospel: "God wants you to be rich"
-  + cf. **MLM**: have ambition, achieve dreams
++ cf. **prosperity** gospel: "God **wants** you to be rich"
++ cf. **MLM**: have ambition, achieve dreams
   + (so if you **fail**, must be bc you didn't **try** hard enough)
-+ exalted in men / defiled before God
+  + success/dream **measured** by money (or tier in MLM)
 
 ---
+For what is **exalted** among men <br>
+is an **abomination** in the sight of God.
+
+[Luke 16:14 (ESV)](# "ref")
+
 >>>
-+ unconsciously **prioritize** making money / work
++ **elevated** as noble // deemed **defiled**, abhorrent
++ Unconsciously **prioritize** making money / work
   + when work offers opp. for increased **responsib**
   + even if would take **time** away from family:
 + "of course I **need** to take it"
@@ -466,8 +500,20 @@ is an **abomination** in the sight of God.
 
 ---
 <!-- .slide: data-background="white" -->
-# Am I servant in the household of God or the household of money? 
+# Am I trying to **love** both God and money?
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
+
+>>>
++ Use worldly **wealth** You've given to build **relationships**
+  + to show **mercy** + forgiveness even in **biz** rl
+  + testify to **Your** infinitely greater mercy toward us
++ Rejoice even in **small** responsibilities like stewardship of money
+  + opp. to cultivate **faithfulness** 
+  + and increase our **faith** in You
++ Fix our **eyes** + **hearts** firmly upon **You**
+  + not on worldly **possessions**, influence, or security
++ Father who provides **abundantly**, has reserved for us
+  + much **greater** reward, true + real, our **own** inheritance
 
