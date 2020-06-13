@@ -538,12 +538,12 @@ before men, but God knows your **hearts**.
 + success/dream **measured** by money (tier in MLM)
 
 ---
-<!-- .slide: <%= bg("unsplash-50bzI1F6urA-forest.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-D7bmnvGJA2Q-dream_believe_achieve.jpg") %> -->
 For what is **exalted** among men <br>
 is an **abomination** in the sight of God.
 
 [Luke 16:14 (ESV)](# "ref")
-[Mt. St. Helens. Jason Leem](https://unsplash.com/photos/50bzI1F6urA "caption")
+[Carolyn Christine](https://unsplash.com/photos/D7bmnvGJA2Q "caption")
 
 >>>
 + **elevated** as noble // deemed **defiled**, abhorrent
