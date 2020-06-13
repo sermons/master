@@ -7,8 +7,8 @@
   + it's a **necessity** of life
 + Bible never said having money is **evil**
   + of **course** I love God more
-+ But today's passage sets the **bar**
-  + what it truly means to **love** God more than money
++ Today's passage sets **bar**: what truly means
+  + to **love** God more than money
 + Christ has **saved** us by His mercy,
   + **disciples** us to be faithful in all things,
   + and has **called** us to love + obey Him
@@ -27,10 +27,12 @@ ______
 3. **Loving** God, Hating Money [(v13-15)](# "ref")
 
 >>>
-+ (1) **mercy**: use resources to seek opp to show mercy
++ (1) **mercy**: use resources 
+  + to seek opp to show mercy
 + (2) **faithfulness**: and money is the smallest!
 + (3) **love**: for God demands **exclusivity**
-+ ch starts w/**parable**: somewhat **perplexing** one:
++ ch starts w/**parable**: 
+  + somewhat **perplexing** one:
 
 ---
 [1](# "ref")
@@ -100,7 +102,8 @@ than the sons of light.
 >>>
 + So does the master represent **God**,
   + and **we're** to be like dishonest **manager**?
-+ Jesus **repeat** emph. mgr. was **dishonest** (unrighteous)
++ Jesus **repeatedly** emphasizes
+  + mgr. was **dishonest** (unrighteous)
   + didn't he **waste** master's money?
 + Jesus is using wisdom of the **worldly**
   + to prompt us to be even **more** wise
@@ -180,42 +183,42 @@ that this man was **wasting** his possessions.
 >>>
 + note: not **stealing** (embezzlement) but **scattering**
   + didn't really know **how**, they're just **gone**
-+ and **now**, mgr gives hefty **discounts** to **protect** own career
++ **now**, mgr hefty **discounts** to **protect** career
 + **Why** does the master respect this?
   + this is the whole **point** of this parable:
 + **Relationships** are more important than money
-+ Money has no **intrinsic** worth; it is a proxy for **value**
++ Money: no **intrinsic** worth; proxy for **value**
   + Money sitting in bank has **no utility**
-+ How much we **save up** doesn't reflect how **noble** we are
-  + it's how we **spend** money that reveals our **values**
-+ Sons of this **age** understand this **better** than we do:
++ How much **save up** doesn't reflect how **noble**
+  + it's how we **spend** that reveals **values**
++ Sons this **age** understand **better** than we:
 
 ---
 >>>
-+ **We** are ones who often refuse to **think** about money
++ **We** are ones who often refuse **think** abt money
   + feel it's **dirty**, wicked, worldly
-+ So we don't know how to **use** it, earn, save, invest, spend
++ So don't know how **use**, earn, save, invest, spend
 + We often succumb to 1 of 2 **lazy** ways of thinking:
+  + compartmentalization or negligence
 + (1) **compartmentalized** thinking:
-+ **church** / charity finances are generous, trusting
-  + **biz** finances are strict, transactional
-+ **take** as much as you can get,
++ to **church** / charity we're generous, trusting
+  + but **biz** finances are strict, transactional
++ **take** as much as you can get:
   + all's **fair** in love, war, and business
 
 ---
 >>>
-+ or (2) **negligence** masquerading as faith in God's protection
-+ e.g., early 2000's **Foursquare** church denomination
-  + lost est **$15M USD** due to president Paul Risser
++ (2) **negligence** masq. as faith in God's protect
++ e.g., early 2000's **Foursquare** church denom
+  + lost **~$15M USD** by pres **Paul Risser**
 + didn't **steal** the money for himself,
   + but **invested** into **pyramid** scheme
   + **fooled** by crooks who promised high **return**
 + realized **wrong** + asked forgiveness
   + but not **isolated** incident: many like it
-+ in the **trusting** environment of the church
-  + we forget the **shrewdness** praised by the master
-  + in Jesus' parable
-+ We neglect to study **how** we ought to **use** our money
++ in **trusting** env of church, we forget 
+  + **shrewdness** praised by master in parable
++ We neglect to study **how** ought to **use** money
   + Here's what Jesus says:
 
 ---
@@ -232,7 +235,7 @@ into the **eternal dwellings**.
   + out of the **mammon** of unrighteousness,
   + so that when it **fails**, 
   + you may be **received** into the eternal tents.
-+ **Mammon** (wealth): from Aramaic "that in which we **trust**"
++ **Mammon**: Aramaic "that in which we **trust**"
   + not in OT, only here and parallel in Mt6:24
 + Money is not **amoral**, it can be **unrighteous**
   + but even **if** we have unrighteous money
@@ -240,8 +243,8 @@ into the **eternal dwellings**.
 + Money will certainly **fail** us (die, quit, end)
   + but we have a **home** that lasts to **eternity**
 + "Dwelling": not **house** but **tent**, as Isr. in wilder.
-  + rather dwell in **corner** of tent in God's eternal kingdom
-  + than in a **mansion** built on fleeting worldly riches
+  + rather **corner** of tent God's eternal king.
+  + than **mansion** on fleeting worldly riches
 
 ---
 >>>
@@ -255,7 +258,7 @@ into the **eternal dwellings**.
   + **all** our resources come from God
   + we **tithe** + offer as part of our **worship**
 + (2) **saints** that go before: support in their need
-+ (3) **biz partners**, that they may recognize witness of mercy
++ (3) **biz partners**: that may recog. witness of mercy
   + and be **drawn** to Christ's mercy
 
 ---
@@ -266,7 +269,8 @@ into the **eternal dwellings**.
   + friends w/your **money**, not w/you!
 + cf **guanxi**: "hey we're **family**, give me a **discount**!"
   + bad if **abusing** rl to gain money: **selfish**
-  + good if **expending** money to build rl + testify to mercy
++ good if **expending** money to build rl 
+  + and **testify** to God's mercy
 
 ---
 <!-- .slide: data-background="white" -->
@@ -275,16 +279,16 @@ into the **eternal dwellings**.
 >>>
 + students: school, interactions w/**classmates**
   + practical **dealings** w/people of the world
-+ not **demanding** from others to the fullest extent of the law
++ not **demand** from others to fullest extent of law
   + but seeking **fair** + equitable dealings
 + not only as **consumers** but also **employees**/ers:
 + e.g., office **culture**, **conflict** resolution
   + **hiring** practises, who we choose to do **biz** with
   + how **insurance** rates are determined
-  + legal framework for **sentencing** for small crimes
-  + **market research** / surveys that accurately **repr** real pop
-+ acting with **justice**, desiring to show **mercy** as God has,
-  + keeping in **step** with God in all humility
+  + legal framework **sentencing** small crimes
+  + **mkt rsrch** / survey accurate **repr** real pop
++ act w/**justice**, desire show **mercy** as God has,
+  + keep in **step** w/God in all humility
 
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
@@ -293,7 +297,7 @@ into the **eternal dwellings**.
 3. Loving God, Hating Money [(v13-15)](# "ref")
 
 >>>
-+ showing mercy != being **naive**
++ but showing mercy != being **naive**
   + e.g., former Foursquare pastor
 + being **profligate** w/resources God entrusts to us
   + doesn't show **trust** in God's protection
@@ -327,11 +331,11 @@ who will give you that which is **your own**?
   + unrighteous vs that which is **true**
   + another's vs your **own**
 + Money is **tiny**, not of great / lasting value
-  + Money can be **unrighteous**: ill-gotten, tempting to sin
+  + Money can be **unright.**: ill-got, tempt to sin
   + Money is not **our own**, it belongs to God
-+ But money can be **useful** to train up our **faithfulness**
++ But money can be **useful**: train up **faithf.**
 + Financial **stewardship** is part of **discipleship**
-  + having enough **money** != good stewardship!
+  + Having enough **money** != good stewardship!
   + "I **earned** it, so it's **mine** to spend"
 + e.g., child's **allowance**: daily **needs** provided for
   + but allowance is opp. to learn **responsibility**
@@ -357,7 +361,8 @@ and the **body** more than clothing?
   + no **lack** / scarcity with the **Creator**
 + This breaks our system of **economics** 
   + that predicates on **scarcity** / zero sum
-+ So we have no **fear** / anxiety about not having **enough**
++ So we have no **fear** / anxiety 
+  + about not having **enough**
   + and no **pride** over having an abundance
 + All our **worldly** wealth is the **tiniest** of things
   + compared to the **riches** of God's inheritance
@@ -379,8 +384,10 @@ there your **heart** will be also.
 [Matthew 6:19-21 (ESV)](# "ref")
 
 >>>
-+ investment with **best** long-term returns
-+ cultivate **faithfulness** in what we've been entrusted with
++ Investment with **best** long-term returns
++ cultivate **faithfulness** 
+  + in even the **littlest** things
+  + we've been **entrusted** with
 + e.g. **care** for plant / fish / dog/cat / child
 + e.g., participate in **smgp** before lead
 + be a diligent **student**, employee, spouse, parent
@@ -402,11 +409,11 @@ You are serving the **Lord Christ**.
 [Colossians 3:23-24 (ESV)](# "ref")
 
 >>>
-+ on my whiteboard at TWU, need that frequent **reminder** to
++ whiteboard @TWU, need freq **reminder** to
   + work **heartily**: from the **psyche**, soul, life
-+ Certainly, don't work heartily in things that **oppose** God,
-  + but in our day-to-day **occupation**
-+ This is our **training** grounds for a future reward that is
++ Don't work heartily in things that **oppose** God,
+  + but in our day-to-day **occupation**, see as
++ Our **training** grounds for future reward:
   + **abundant**, **true**, and will be **ours** to keep
 + Told **students** same: e.g., learning **calculus**
   + not **critical** to spiritual growth, but
@@ -420,8 +427,10 @@ You are serving the **Lord Christ**.
 >>>
 + esp for **guys**: tend to like focusing on **big** ideas
   + while ladies faithfully take care of **implementation** details
-+ I might think some work / responsibility is **beneath** me
-  + I have **training**, expertise, could be doing so much **more**
++ I might feel certain work / responsibility 
+  + is **beneath** me
++ "I have **training**, expertise, 
+  + I could be doing so much **more**"
 + If this is the **work** God's entrusted to me right now
   + will I **fulfill** it with full energy
   + serving **God**, not man?
@@ -433,9 +442,12 @@ You are serving the **Lord Christ**.
 3. **Loving God, Hating Money** [(v13-15)](# "ref")
 
 >>>
-+ Desire to show **mercy** to others as a testimony of God's mercy
-+ Cultivate **faithfulness** even in small things (like money)
-+ Examine our **hearts**, what does it mean to **love** God
++ (1) Desire to show **mercy** to others 
+  + as a testimony of **God's** mercy
++ (2) Cultivate **faithfulness** 
+  + even in **small** things (like money)
++ (3) Examine our **hearts**:
+  + what does it mean to **love** God?
 
 ---
 No servant can serve **two masters**, 
@@ -454,10 +466,12 @@ You cannot serve **God and money**.
 + **heart**: love vs hate
 + **mind** (thinking, priorities):
   + **cling** / hold closely to vs. 
-  + look **down** on, consider worthless, hold in contempt
+  + look **down** on, consider worthless,
+  + hold in **contempt**
 + We must make a conscious **choice**
   + put God as **master** over **every** aspect of life
   + including how we **earn + spend** money
++ But the **Pharisees** scoffed at this exclusivity:
 
 ---
 The Pharisees, who were **lovers of money**, <br>
@@ -470,16 +484,16 @@ before men, but God knows your **hearts**.
 [Luke 16:14 (ESV)](# "ref")
 
 >>>
-+ Phar **scoffed**: not took offense, but looked **down** on:
++ not took **offense**, but looked **down** on:
   + "Jesus, you don't **understand**:
-  + "we **do** love God, and also enjoy **finer** things of life"
+  + "we **do** love God, and enjoy **success** in life"
   + "What's wrong with loving **both**?"
 + Making lots of money means God is **blessing** you,
   + means you must be doing **something** right? 
 + cf. **prosperity** gospel: "God **wants** you to be rich"
 + cf. **MLM**: have ambition, achieve dreams
-  + (so if you **fail**, must be bc you didn't **try** hard enough)
-  + success/dream **measured** by money (or tier in MLM)
+  + (so if **fail**, must be bc didn't **try** hard enough!)
++ success/dream **measured** by money (tier in MLM)
 
 ---
 For what is **exalted** among men <br>
@@ -492,18 +506,34 @@ is an **abomination** in the sight of God.
 + Unconsciously **prioritize** making money / work
   + when work offers opp. for increased **responsib**
   + even if would take **time** away from family:
-+ "of course I **need** to take it"
-  + "it's for our **family**"
++ I don't think **twice**: "of **course** need to take it"
+  + yes: build biz **rl**, show **mercy**
++ but if **honest** w/self: is **that** my motivation?
+  + or do I simply **adopt** company's defn
+  + of **success**, next **rung** on ladder?
++ I **justify** self: "it's for our **family**"
   + **scare** tactics: "do you want us to **starve**?"
 
 ---
 <!-- .slide: data-background="white" -->
 # Am I trying <br> to **love** both God <br> and money?
 
+>>>
++ **rethink** defn of **success** in life:
++ making money != I **earned** it, or **winning** in life
++ having job/career **struggles** != **failing** in life
+  + or not **ambitious** enough
++ **Pursue** God w/all my **heart** + strength
+  + **work** hard to show **mercy** to others
++ Cultivate **faithfulness** in what God's given me now
+  + **Love** Him above all else
+
 ---
 <!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
 
 >>>
+**[ PRAYER ]**
+
 + Use worldly **wealth** You've given to build **relationships**
   + to show **mercy** + forgiveness even in **biz** rl
   + testify to **Your** infinitely greater mercy toward us
