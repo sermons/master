@@ -1,6 +1,7 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-0sPFjdcRhko-coins.jpg") %> id="title" -->
 # Is Money <br> My Master?
 ## Luke 16:9-15
+[Steve Johnson](https://unsplash.com/photos/0sPFjdcRhko "caption")
 
 >>>
 + **most** of us would say, "no, no"
@@ -21,7 +22,7 @@ ______
 **[ PRAYER ]**
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-0sPFjdcRhko-coins.jpg") %> id="outline" class="outline" -->
 1. **Mercy** in Business [(v1-9)](# "ref")
 2. **Faithfulness** in <br> the Small Things [(v10-12)](# "ref")
 3. **Loving** God, Hating Money [(v13-15)](# "ref")
@@ -111,6 +112,7 @@ than the sons of light.
   + who **hears** widow's case bc **persistence**:
 
 ---
+<!-- .slide: <%= bg("unsplash-9z9fxr_7Z-k-gavel.jpg") %> -->
 Hear what the **unrighteous judge** says. 
 
 [7](# "ref")
@@ -118,6 +120,7 @@ And will not **God** give justice to his **elect**, <br>
 who **cry** to him day and night? 
 
 [Luke 18:6-7 (ESV)](# "ref")
+[Wesley Tingey](https://unsplash.com/photos/9z9fxr_7Z-k "caption")
 
 >>>
 + if even unrighteous **judge** brings justice,
@@ -127,6 +130,7 @@ who **cry** to him day and night?
 + **what** did the dishonest manager do?
 
 ---
+<!-- .slide: <%= bg("unsplash-uOBApnN_K7w-oil.jpg") %> -->
 ‘How much do you **owe** my master?’ <br>
 [6](# "ref")
 He said, ‘A **hundred** measures of oil.’
@@ -143,11 +147,13 @@ and sit down quickly and write **fifty**.’
 + **Why?** bc he **knew** he would lose his job, so
 
 ---
+<!-- .slide: <%= bg("unsplash-agS-BtrQZrs-train_station.jpg") %> -->
 I have decided what to do, <br>
 so that when I am **removed** from management, <br>
 people may **receive** me into their houses.’ 
 
 [Luke 16:4 (ESV)](# "ref")
+[Julian Böck](https://unsplash.com/photos/agS-BtrQZrs "caption")
 
 >>>
 + he would curry **favour** with other houses
@@ -155,6 +161,7 @@ people may **receive** me into their houses.’
 + what's **amazing** is the master's response:
 
 ---
+<!-- .slide: <%= bg("unsplash-GWe0dlVD9e0-office.jpg") %> -->
 The master **commended** <br>
 the dishonest manager <br>
 for his **shrewdness**. 
@@ -164,6 +171,7 @@ in dealing with their **own generation** <br>
 than the **sons of light**. 
 
 [Luke 16:8 (ESV)](# "ref")
+[Benjamin Child](https://unsplash.com/photos/GWe0dlVD9e0 "caption")
 
 >>>
 + The master is also a **son** of this world
@@ -175,10 +183,12 @@ than the **sons of light**.
   + orig **reason** for firing was **wasting** money:
 
 ---
+<!-- .slide: <%= bg("unsplash-K3uOmmlQmOo-pencil_shavings.jpg") %> -->
 and **charges** were brought to him <br>
 that this man was **wasting** his possessions. 
 
 [Luke 16:1 (ESV)](# "ref")
+[Angelina Litvin](https://unsplash.com/photos/K3uOmmlQmOo "caption")
 
 >>>
 + note: not **stealing** (embezzlement) but **scattering**
@@ -194,6 +204,11 @@ that this man was **wasting** his possessions.
 + Sons this **age** understand **better** than we:
 
 ---
+<!-- .slide: class="outline" -->
+## Pitfalls in How Christians Treat Money
+1. **Compartmentalisation**
+2. Negligence
+
 >>>
 + **We** are ones who often refuse **think** abt money
   + feel it's **dirty**, wicked, worldly
@@ -207,6 +222,11 @@ that this man was **wasting** his possessions.
   + all's **fair** in love, war, and business
 
 ---
+<!-- .slide: class="outline" -->
+## Pitfalls in How Christians Treat Money
+1. Compartmentalisation
+2. **Negligence**
+
 >>>
 + (2) **negligence** masq. as faith in God's protect
 + e.g., early 2000's **Foursquare** church denom
@@ -222,6 +242,7 @@ that this man was **wasting** his possessions.
   + Here's where Jesus says sth super **confusing**:
 
 ---
+<!-- .slide: <%= bg("unsplash-IBUcu_9vXJc-meeting_hands.jpg") %> -->
 And I tell you, make **friends** for yourselves <br>
 by means of **unrighteous wealth**, 
 
@@ -229,6 +250,7 @@ so that when it **fails** they may receive you <br>
 into the **eternal dwellings**.
 
 [Luke 16:9 (ESV)](# "ref")
+[Helsinki, Finland. Thomas Drouault](https://unsplash.com/photos/IBUcu_9vXJc "caption")
 
 >>>
 + To yourselves make **friends**
@@ -247,6 +269,12 @@ into the **eternal dwellings**.
   + than **mansion** on fleeting worldly riches
 
 ---
+<!-- .slide: class="outline" -->
+## Making Friends Using Wealth
+1. Make Peace with **God**
+2. Support the **Saints** in Their Need
+3. Show Mercy to **Business Partners**
+
 >>>
 + So **who** are these **friends** I am to make?
 + **friends** (kiss, love, alliance, tribe):
@@ -262,6 +290,7 @@ into the **eternal dwellings**.
   + and be **drawn** to Christ's mercy
 
 ---
+(guan xi)
 >>>
 + so Jesus wants us to **buy** friends?
   + mixing **biz** + **personal** sounds sketchy!
@@ -291,7 +320,7 @@ into the **eternal dwellings**.
   + keep in **step** w/God in all humility
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-0sPFjdcRhko-coins.jpg") %> class="outline" -->
 1. Mercy in Business [(v1-9)](# "ref")
 2. **Faithfulness in** <br> **the Small Things** [(v10-12)](# "ref")
 3. Loving God, Hating Money [(v13-15)](# "ref")
@@ -436,7 +465,7 @@ You are serving the **Lord Christ**.
   + serving **God**, not man?
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="outline" -->
+<!-- .slide: <%= bg("unsplash-0sPFjdcRhko-coins.jpg") %> class="outline" -->
 1. Mercy in Business [(v1-9)](# "ref")
 2. Faithfulness in <br> the Small Things [(v10-12)](# "ref")
 3. **Loving God, Hating Money** [(v13-15)](# "ref")
@@ -529,7 +558,7 @@ is an **abomination** in the sight of God.
   + **Love** Him above all else
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
+<!-- .slide: <%= bg("unsplash-0sPFjdcRhko-coins.jpg") %> class="empty" -->
 
 >>>
 **[ PRAYER ]**
