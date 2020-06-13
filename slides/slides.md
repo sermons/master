@@ -12,9 +12,9 @@
 + Christ has **saved** us by His mercy,
   + **disciples** us to be faithful in all things,
   + and has **called** us to love + obey Him
-+ Every time we open up the **Scriptures** together,
-  + we **direct** our attention to Jesus
-+ let us **behold** the Lamb of God
++ So let's open up **Scriptures** together
+  + and **direct** our attention to Jesus
++ **behold** the Lamb of God
   + who **takes away** the sin of the world
 
 ______
@@ -30,10 +30,7 @@ ______
 + (1) **mercy**: use resources to seek opp to show mercy
 + (2) **faithfulness**: and money is the smallest!
 + (3) **love**: for God demands **exclusivity**
-+ (1) money does have **utility**
-+ (2) but it's only the **smallest** of things
-+ (3) in fact, **cannot** love both God + money
-+ ch starts w/**parable**: a somewhat **perplexing** one:
++ ch starts w/**parable**: somewhat **perplexing** one:
 
 ---
 [1](# "ref")
@@ -102,12 +99,13 @@ than the sons of light.
 
 >>>
 + So does the master represent **God**,
-  + and **we're** to be like the dishonest **manager**?
+  + and **we're** to be like dishonest **manager**?
 + Jesus **repeat** emph. mgr. was **dishonest** (unrighteous)
-  + didn't he **steal** master's money?
-+ Jesus is using the wisdom of the **worldly**
+  + didn't he **waste** master's money?
++ Jesus is using wisdom of the **worldly**
   + to prompt us to be even **more** wise
-+ akin to the parable of the **unrighteous** judge in ch18:
++ akin to parable of **unrighteous** judge in ch18,
+  + who **hears** widow's case bc **persistence**:
 
 ---
 Hear what the **unrighteous judge** says. 
@@ -126,10 +124,10 @@ who **cry** to him day and night?
 + **what** did the dishonest manager do?
 
 ---
-‘How much do you **owe** my master?’ 
-
+‘How much do you **owe** my master?’ <br>
 [6](# "ref")
-He said, ‘A **hundred** measures of oil.’ <br>
+He said, ‘A **hundred** measures of oil.’
+
 He said to him, ‘Take your bill, <br>
 and sit down quickly and write **fifty**.’ 
 
