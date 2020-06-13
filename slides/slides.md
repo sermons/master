@@ -161,7 +161,7 @@ people may **receive** me into their houses.’
 + what's **amazing** is the master's response:
 
 ---
-<!-- .slide: <%= bg("unsplash-GWe0dlVD9e0-office.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-ghbepAO7BCs-vancouver_street.jpg") %> -->
 The master **commended** <br>
 the dishonest manager <br>
 for his **shrewdness**. 
@@ -171,7 +171,7 @@ in dealing with their **own generation** <br>
 than the **sons of light**. 
 
 [Luke 16:8 (ESV)](# "ref")
-[Benjamin Child](https://unsplash.com/photos/GWe0dlVD9e0 "caption")
+[Vancouver, BC.  Aditya Chinchure](https://unsplash.com/photos/ghbepAO7BCs "caption")
 
 >>>
 + The master is also a **son** of this world
@@ -333,6 +333,7 @@ into the **eternal dwellings**.
   + it shows a lack of **faithfulness**:
 
 ---
+<!-- .slide: <%= bg("unsplash-GWe0dlVD9e0-office.jpg") %> -->
 [10](# "ref")
 One who is faithful in a **very little**<br>
 is also faithful in **much**, 
@@ -341,8 +342,10 @@ and one who is dishonest in a **very little**<br>
 is also dishonest in **much**. 
 
 [Luke 16:10-12 (ESV) (p.1/2)](# "ref")
+[Benjamin Child](https://unsplash.com/photos/GWe0dlVD9e0 "caption")
 
 ---
+<!-- .slide: <%= bg("unsplash-GWe0dlVD9e0-office.jpg") %> -->
 [11](# "ref")
 If then you have not been faithful <br>
 in the **unrighteous wealth**, <br>
@@ -353,7 +356,7 @@ And if you have not been faithful <br>
 in that which is **another's**, <br>
 who will give you that which is **your own**? 
 
-[Luke 16:10-12 (ESV) (p.1/2)](# "ref")
+[Luke 16:10-12 (ESV) (p.2/2)](# "ref")
 
 >>>
 + 3 **contrasts**: the least vs **abundance**
@@ -373,6 +376,7 @@ who will give you that which is **your own**?
   + but what to **spend** it on?
 
 ---
+<!-- .slide: <%= bg("unsplash-mNz9Pa3tz34-flower_dahlia.jpg") %> -->
 Therefore I tell you,
 
 do not be **anxious** about your **life**, <br>
@@ -384,6 +388,7 @@ Is not **life** more than food, <br>
 and the **body** more than clothing?
 
 [Matthew 6:25 (ESV)](# "ref")
+[Pink dahlias. Irina Iriser](https://unsplash.com/photos/mNz9Pa3tz34 "caption")
 
 >>>
 + Truth is: **all** our money is like a child's piggy bank
@@ -398,6 +403,7 @@ and the **body** more than clothing?
   + reserved for us in **heaven**:
 
 ---
+<!-- .slide: <%= bg("unsplash-e6XsI7qqvAA-forest_sunbeam.jpg") %> -->
 Do not lay up for yourselves **treasures on earth**, <br>
 where **moth** and rust destroy <br>
 and where **thieves** break in and steal, 
@@ -411,6 +417,7 @@ For where your **treasure** is, <br>
 there your **heart** will be also.
 
 [Matthew 6:19-21 (ESV)](# "ref")
+[Ju On](https://unsplash.com/photos/e6XsI7qqvAA "caption")
 
 >>>
 + Investment with **best** long-term returns
@@ -426,6 +433,7 @@ there your **heart** will be also.
   + w/promise of **greater**, lasting reward
 
 ---
+<!-- .slide: <%= bg("unsplash-y02jEX_B0O0-fountain_pen.jpg") %> -->
 Whatever you do, work **heartily**, <br>
 as **for the Lord** and not for men, 
 
@@ -436,6 +444,7 @@ the **inheritance** as your reward.
 You are serving the **Lord Christ**.
 
 [Colossians 3:23-24 (ESV)](# "ref")
+[Aaron Burden](https://unsplash.com/photos/y02jEX_B0O0 "caption")
 
 >>>
 + whiteboard @TWU, need freq **reminder** to
@@ -479,6 +488,7 @@ You are serving the **Lord Christ**.
   + what does it mean to **love** God?
 
 ---
+<!-- .slide: <%= bg("unsplash-rdwkamJlpiU-mist-mtns.jpg") %> -->
 No servant can serve **two masters**, 
 
 for either he will **hate** the one <br>
@@ -490,6 +500,7 @@ and **despise** the other.
 You cannot serve **God and money**.
 
 [Luke 16:13 (ESV)](# "ref")
+[Savoie, France. Thomas Tixtaaz](https://unsplash.com/photos/rdwkamJlpiU "caption")
 
 >>>
 + **heart**: love vs hate
@@ -503,6 +514,7 @@ You cannot serve **God and money**.
 + But the **Pharisees** scoffed at this exclusivity:
 
 ---
+<!-- .slide: <%= bg("unsplash-8wUVsR-w994-curtain.jpg") %> -->
 The Pharisees, who were **lovers of money**, <br>
 heard all these things, and they **ridiculed** him.
 
@@ -511,6 +523,7 @@ And he said to them, <br>
 before men, but God knows your **hearts**. 
 
 [Luke 16:14 (ESV)](# "ref")
+[Dozen](https://unsplash.com/photos/8wUVsR-w994 "caption")
 
 >>>
 + not took **offense**, but looked **down** on:
@@ -525,10 +538,12 @@ before men, but God knows your **hearts**.
 + success/dream **measured** by money (tier in MLM)
 
 ---
+<!-- .slide: <%= bg("unsplash-50bzI1F6urA-forest.jpg") %> -->
 For what is **exalted** among men <br>
 is an **abomination** in the sight of God.
 
 [Luke 16:14 (ESV)](# "ref")
+[Mt. St. Helens. Jason Leem](https://unsplash.com/photos/50bzI1F6urA "caption")
 
 >>>
 + **elevated** as noble // deemed **defiled**, abhorrent
