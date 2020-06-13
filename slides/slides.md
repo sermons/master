@@ -534,14 +534,14 @@ is an **abomination** in the sight of God.
 >>>
 **[ PRAYER ]**
 
-+ Use worldly **wealth** You've given to build **relationships**
++ Use worldly **wealth** You've given to build **rl**
   + to show **mercy** + forgiveness even in **biz** rl
-  + testify to **Your** infinitely greater mercy toward us
-+ Rejoice even in **small** responsibilities like stewardship of money
-  + opp. to cultivate **faithfulness** 
+  + testify **Your** infinitely greater mercy to us
++ Rejoice even in **small** resp. like steward money
+  + opport. to cultivate **faithfulness** 
   + and increase our **faith** in You
 + Fix our **eyes** + **hearts** firmly upon **You**
-  + not on worldly **possessions**, influence, or security
-+ Father who provides **abundantly**, has reserved for us
-  + much **greater** reward, true + real, our **own** inheritance
+  + not worldly **poss.**, influence, security
++ Father provides **abundant**, reserved for us
+  + **greater** reward, **true** + real, **own** inherit
 
