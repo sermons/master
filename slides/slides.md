@@ -205,7 +205,7 @@ that this man was **wasting** his possessions.
 
 ---
 <!-- .slide: class="outline" -->
-## Pitfalls in How Christians Treat Money
+## Pitfalls in How <br> Christians Treat Money
 1. **Compartmentalisation**
 2. Negligence
 
