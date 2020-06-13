@@ -219,7 +219,7 @@ that this man was **wasting** his possessions.
 + in **trusting** env of church, we forget 
   + **shrewdness** praised by master in parable
 + We neglect to study **how** ought to **use** money
-  + Here's what Jesus says:
+  + Here's where Jesus says sth super **confusing**:
 
 ---
 And I tell you, make **friends** for yourselves <br>
