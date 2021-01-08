@@ -1,7 +1,7 @@
 # Is Money My Master?
 ## Luke 16a
 
-[![Build status](https://api.travis-ci.org/sermons/master.svg)](https://travis-ci.org/github/sermons/master)
+[![Build status](https://api.travis-ci.com/sermons/master.svg)](https://travis-ci.com/github/sermons/master)
 [![Node deps](https://david-dm.org/sermons/master.svg)](https://david-dm.org/sermons/master)
 [![Node devDeps](https://david-dm.org/sermons/master/dev-status.svg)](https://david-dm.org/sermons/master?type=dev)
 
