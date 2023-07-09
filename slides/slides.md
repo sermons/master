@@ -13,6 +13,11 @@
 + How to **honour** God w/our money?
 ___________________________________________
 + **Behold** the Lamb
+___________________________________________
+**[TODO]**
++ transition from pt1 to pt2
++ rephrase Q2
++ rebalance pt1 vs pt3
 
 ---
 <!-- .slide: <%= bg("unsplash-0sPFjdcRhko-coins.jpg") %> id="outline" class="outline" -->
