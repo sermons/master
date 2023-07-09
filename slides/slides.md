@@ -66,7 +66,7 @@ who **cry** to him day and night?
 
 >>>
 + if even unright **judge** brings justice,
-  + how much more so **God** to His elect
+  + how much more **God** to His elect
 + if even unright **mgr** does thus,
   + how much more so should **we**?
 + **what** did dishonest manager do?
@@ -140,7 +140,7 @@ than the **sons of light**.
   + still very **fired**, but I'd do **same**
 + **Why**? **Relationship** > money:
 + No **intrinsic** worth; **proxy** for value
-  + Money sitting in bank has **no utility**
+  + Sitting in bank: **no utility**
 + Virtue isn't how much we **save up**,
   + how we **spend** reveals **values**
 + Sons of this **age** understand **better**:
@@ -161,8 +161,8 @@ than the **sons of light**.
   + **biz** finances: strict, transactional
 + **take** as much as you can get:
   + all's **fair** in love, war, and business
-+ Donating to charity **entitles** me to
-  + do what I **want** with rest of my money
++ Donating to charity **entitles** me to do
+  + what I **want** w/rest of money
 
 ---
 <!-- .slide: class="outline" -->
@@ -173,7 +173,7 @@ than the **sons of light**.
 >>>
 + **neglig** masq. as faith in God's protect
 + e.g., early 2000's **Foursquare** church
-  + lost **~$15M USD** by pres **Paul Risser**
+  + pres Paul Risser lost **~USD 15M** 
 + Didn't **steal** the money for himself,
   + fooled by **pyramid** scheme
 + Realized **wrong** + asked forgiveness,
@@ -195,10 +195,10 @@ into the **eternal dwellings**.
 [Helsinki, Finland. Thomas Drouault](https://unsplash.com/photos/IBUcu_9vXJc "caption")
 
 >>>
-+ **Mammon**: Aram. "that which we **trust**"
++ **Mammon**: Aram. "in which we **trust**"
   + (only here and parallel in Mt6:24)
 + Money not **amoral**: can be **unright**
-  + even **if** we have unrighteous money
+  + but even unrighteous money
 + can be **used** for better purposes:
   + show **friendship**, concern, mercy
 + It will **fail** us (quit, end, eclipse)
@@ -217,7 +217,7 @@ into the **eternal dwellings**.
 >>>
 + **Friendship** (kiss, love, ally, tribe):
   + will **welcome** to eternal tents
-+ as dishonest **mgr** prepared to jump ship
++ as shrewd **mgr** prepared to jump ship
   + **welcomed** into other households
 + 3 levels of **application**:
 + (1) make peace w/ **God**:
@@ -242,8 +242,7 @@ by means of **unrighteous wealth**
   + mixing **biz** + **personal**: sketchy!
 + e.g., **bday** card + gifts from bank
   + friends w/your **money**, not w/you!
-+ **guanxi**: 
-  + "we're **family**, give me **discount**!"
++ **guanxi**: ask family discount
 + why bad? **abusing** rl for pers **gain**
 + It's not **mix** of money w/rl that's bad
   + But **prioritising** money over rl
@@ -263,7 +262,7 @@ by means of **unrighteous wealth**
 + Office **culture**, **conflict** resol
   + **hiring** practises, clients, supplier
 + How **insurance** rates are determined
-  + legal framework **sentenc** small crimes
+  + legal frame **sentenc** small crimes
 + Act w/**justice**, desire show **mercy**,
   + keep in **step** w/God in all humility
 
@@ -363,7 +362,7 @@ You are serving the **Lord Christ**.
 [Aaron Burden](https://unsplash.com/photos/y02jEX_B0O0 "caption")
 
 >>>
-+ whiteboard @TWU, need freq **reminder**
++ TWU office: need freq **remind**
   + work from your **psyche**, soul, life
 + Not in things that **oppose** God,
   + but see day-to-day **occupation** as
@@ -426,7 +425,7 @@ You cannot serve **God and money**.
   + hold in **contempt**
 + Make conscious **choice**: put God as
   + **master** over **every** aspect of life
-  + including how we **earn + spend** money
+  + incl. how we **earn + spend** money
 + **Pharisees** scoffed at this exclusivity:
 
 ---
@@ -442,14 +441,13 @@ heard all these things, and they **ridiculed** him.
 + "Jesus, you don't **underst**: we do
   + love God, and enjoy **success** in life
   + What's wrong with loving **both**?"
-+ Lots of money == God is **blessing** you,
++ Lots of money == God **blesses** you
   + so must be doing **sth** right, yes? 
 + cf. **prosperity** gospel:
   + "God **wants** you to be wealthy"
-+ cf. **MLM**: have ambition, achieve dreams
-  + (so if **fail**, 
-  + must be bc didn't **try** hard enough!)
-+ success **measured** by money (tier in MLM)
++ cf. **MLM**: ambition, achieve dreams
+  + (so **fail** == not **trying**!)
++ success **meas.** by money (tier)
 
 ---
 <!-- .slide: <%= bg("unsplash-D7bmnvGJA2Q-dream_believe_achieve.jpg") %> -->
@@ -466,9 +464,9 @@ is an **abomination** in the sight of God.
 >>>
 + **elevated** as noble 
   + vs deemed **defiled**, abhorrent
-+ We unconsciously **adopt** worldly values
-+ Opp. for **promotion** at work
-  + but means **travel** away from family:
++ Unconsc. **adopt** worldly values
++ Opp. for **promotion** at work, but
+  + means **travel** away from family:
 + "Of **course** need to take it"
   + yes: build biz **rl**, show **mercy**
 + but be **honest**: is **that** my motiv?
@@ -484,8 +482,7 @@ is an **abomination** in the sight of God.
 + Making money != I **earned** it
   + or **winning** in life
 + **Struggling** in job / career
-  + != **failing** in life
-  + or not **ambitious** enough
+  + != **failing** in life / ambition
 + **Pursue** God: all **heart** + strength
   + **work** hard to show **mercy**
 + Cultivate **faithfulness** 
