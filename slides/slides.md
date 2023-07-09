@@ -209,7 +209,7 @@ into the **eternal dwellings**.
 
 ---
 <!-- .slide: class="outline" -->
-## Making Friends Using Wealth
+## Making Friends <br> Using Wealth
 1. Make Peace with **God**
 2. Support the **Saints** in Their Need
 3. Show Mercy to **Business Partners**
@@ -374,7 +374,7 @@ You are serving the **Lord Christ**.
 
 ---
 <!-- .slide: data-background="white" -->
-# In what "**unimportant**" or "**non-spiritual**" area have I been <br> not so **faithful**? 
+# In what "**unimportant**" area have I been <br> not so **faithful**? 
 
 >>>
 + **guys**: tend to focus on **big** ideas
