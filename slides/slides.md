@@ -167,7 +167,7 @@ and failed the church by violating your trust."
 </div>
 
 >>>
-+ e.g., early 2000's **Foursquare** church
++ e.g., **Foursquare Gospel** church
   + pres Paul Risser lost **~USD 15M** 
 + Not **stolen**: deceived by **pyramid**
 + Ack **wrong** + asked forgiveness, but
