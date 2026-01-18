@@ -153,13 +153,18 @@ than the **sons of light**.
   + as "faith" in God's protection
 
 ---
-[Former president's investing may have cost church $15 million](https://www.sfgate.com/bayarea/article/san-francisco-foursquare-sinner-forgiven-2753996.php)
-(SF Chronicle, 2004-06-03)
+"Former president's investing may have cost church $15 million"
+[(SF Chronicle, 2004-06-03)](https://www.sfgate.com/bayarea/article/san-francisco-foursquare-sinner-forgiven-2753996.php "ref")
 
+<div class="imgbox"><div>
 ![Paul Risser, 2004-06-01](img/risser-2004-06-01.webp)
+</div>
+<div style="flex:1">
 
-"I've sinned against the heart of God <br/>
+"I've sinned against the heart of God 
 and failed the church by violating your trust."
+
+</div>
 
 >>>
 + e.g., early 2000's **Foursquare** church
