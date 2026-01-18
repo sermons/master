@@ -13,11 +13,6 @@
 + How to **honour** God w/our money?
 ___________________________________________
 + **Behold** the Lamb
-___________________________________________
-**[TODO]**
-+ transition from pt1 to pt2
-+ rephrase Q2
-+ rebalance pt1 vs pt3
 
 ---
 <!-- .slide: <%= bg("unsplash-0sPFjdcRhko-coins.jpg") %> id="outline" class="outline" -->
@@ -140,7 +135,7 @@ than the **sons of light**.
   + deem it **dirty**, worldly
   + so we never **learn**
 + 2 **pitfalls** (related, not exhaustive)
-+ (1) **compartmentalized** thinking:
++ (1) put church + work in diff **compart**
 + to **church** / charity: generous, trust
   + **biz** finances: strict, transactional
 + all's **fair** in love, war, and business
@@ -154,7 +149,19 @@ than the **sons of light**.
 2. **Negligence**
 
 >>>
-+ **neglig** masq. as faith in God's protect
++ (2) **negligence** masquerading
+  + as "faith" in God's protection
+
+---
+[Former president's investing may have cost church $15 million](https://www.sfgate.com/bayarea/article/san-francisco-foursquare-sinner-forgiven-2753996.php)
+(SF Chronicle, 2004-06-03)
+
+![Paul Risser, 2004-06-01](img/risser-2004-06-01.webp)
+
+"I've sinned against the heart of God <br/>
+and failed the church by violating your trust."
+
+>>>
 + e.g., early 2000's **Foursquare** church
   + pres Paul Risser lost **~USD 15M** 
 + Not **stolen**: deceived by **pyramid**
@@ -345,6 +352,7 @@ and the **body** more than clothing?
 
 生命不勝於飲食麼？<br/>
 身體不勝於衣裳麼？
+
 [Matthew 6:25b (ESV/CUV) (p.2/2)](# "ref")
 
 >>>
