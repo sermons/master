@@ -157,7 +157,9 @@ than the **sons of light**.
 [(SF Chronicle, 2004-06-03)](https://www.sfgate.com/bayarea/article/san-francisco-foursquare-sinner-forgiven-2753996.php "ref")
 
 <div class="imgbox"><div>
+
 ![Paul Risser, 2004-06-01](img/risser-2004-06-01.webp)
+
 </div>
 <div style="flex:1">
 
